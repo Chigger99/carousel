@@ -12,3 +12,7 @@ function moveToNextSlide() {
 function moveToPrevSlide() {
 	console.log("Previous slide!")
 }
+
+function name(arg, ...) {
+	statements
+}
